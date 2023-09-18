@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Sample Image of Website:
+
+<img width="1577" alt="image" src="https://github.com/ChengCalvin/cano-store-project/assets/22303125/72a24f8c-4eb3-418a-83d9-02e6a84f8d5d">
+
 ## Available Scripts
 
 Install dependencies with :
