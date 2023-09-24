@@ -1,1 +1,0 @@
-# cano-store-project
